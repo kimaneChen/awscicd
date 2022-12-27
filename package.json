@@ -1,0 +1,23 @@
+{
+  "name": "awscicd",
+  "version": "0.0.0",
+  "description": "The backend for travel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimaneChen/awscicd.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "kimchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimaneChen/awscicd/issues"
+  },
+  "homepage": "https://github.com/kimaneChen/awscicd#readme"
+}
